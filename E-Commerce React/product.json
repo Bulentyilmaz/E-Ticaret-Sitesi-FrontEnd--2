@@ -1,0 +1,254 @@
+[
+  {
+    "productId": 228,
+    "productName": "Earl Grey Brewed Tea",
+    "productDescription": "We take a strong black tea base and add the essence of bergamot, a citrus fruit with subtle lemon and floral lavender notes, to create this aromatically awesome tea flavor.",
+    "productPrice": 3,
+    "productImagePath": "https://globalassets.starbucks.com/assets/d229721480574140a154a78e2943a69a.jpg",
+    "productCategory": {
+      "categoryId": 4,
+      "categoryName": "Tea",
+      "categoryDescription": "Tea"
+    }
+  },
+  {
+    "productId": 227,
+    "productName": "Caramel Ribbon Crunch Crème Frappuccino",
+    "productDescription": "Dark caramel sauce is blended with milk and ice, layered on top of whipped cream and dark caramel sauce and topped with vanilla whipped cream.",
+    "productPrice": 13,
+    "productImagePath": "https://globalassets.starbucks.com/assets/534fd767391d4b90815431b86a4f3e57.jpg",
+    "productCategory": {
+      "categoryId": 3,
+      "categoryName": "Frappuccino",
+      "categoryDescription": "Frappuccino"
+    }
+  },
+  {
+    "productId": 226,
+    "productName": "Nitro Cold Brew",
+    "productDescription": "Our velvety-smooth Nitro Cold Brew served cold, straight from the tap, is capped with Cascara flavored Cold Foam for subtle notes of dark brown sugar.",
+    "productPrice": 7,
+    "productImagePath": "https://globalassets.starbucks.com/assets/86f46c65c9e04ab6bae7f05bd8ac20a4.jpg",
+    "productCategory": {
+      "categoryId": 2,
+      "categoryName": "Filter Coffee",
+      "categoryDescription": "Filter Coffee"
+    }
+  },
+  {
+    "productId": 225,
+    "productName": "Blonde Flat White",
+    "productDescription": "Ristretto shots of Blonde Espresso--which is subtly smooth without the roasty edge--get the perfect amount of whole milk",
+    "productPrice": 9,
+    "productImagePath": "https://globalassets.starbucks.com/assets/a968c7a83852417fade90bb70018e994.jpg",
+    "productCategory": {
+      "categoryId": 1,
+      "categoryName": "Espresso",
+      "categoryDescription": "Espresso"
+    }
+  },
+  {
+    "productId": 224,
+    "productName": "Defense Wellness Brewed Tea",
+    "productDescription": "Put your guard up with the Vitamin C found in this revitalizing blend of white tea, which includes notes of uplifting citrus and lemongrass.",
+    "productPrice": 6,
+    "productImagePath": "https://globalassets.starbucks.com/assets/98659cd2d5d94dfdad933dfa17c3d6f3.jpg",
+    "productCategory": {
+      "categoryId": 4,
+      "categoryName": "Tea",
+      "categoryDescription": "Tea"
+    }
+  },
+  {
+    "productId": 223,
+    "productName": "Mocha Cookie Crumble Frappuccino",
+    "productDescription": "Frappuccino Roast coffee, mocha sauce and Frappuccino chips are blended with milk and ice, layered on top of whipped cream and chocolate cookie crumble and topped with vanilla ",
+    "productPrice": 13,
+    "productImagePath": "https://globalassets.starbucks.com/assets/06e29796e7444aa585e2c18384041ddc.jpg",
+    "productCategory": {
+      "categoryId": 3,
+      "categoryName": "Frappuccino",
+      "categoryDescription": "Frappuccino"
+    }
+  },
+  {
+    "productId": 222,
+    "productName": "Featured Dark Roast",
+    "productDescription": "This full-bodied dark roast coffee has the bold, robust flavors to showcase our roasting and blending artistry.",
+    "productPrice": 3,
+    "productImagePath": "https://globalassets.starbucks.com/assets/b1258f28fbfc42b1a964e7bfc247eaf2.jpg",
+    "productCategory": {
+      "categoryId": 2,
+      "categoryName": "Filter Coffee",
+      "categoryDescription": "Filter Coffee"
+    }
+  },
+  {
+    "productId": 221,
+    "productName": "Espresso Con Panna",
+    "productDescription": "Espresso meets a dollop of whipped cream to enhance the rich and caramelly flavors of a straight-up shot.",
+    "productPrice": 6,
+    "productImagePath": "https://globalassets.starbucks.com/assets/52d8be381275475d8e62c8fe28784da9.jpg",
+    "productCategory": {
+      "categoryId": 1,
+      "categoryName": "Espresso",
+      "categoryDescription": "Espresso"
+    }
+  },
+  {
+    "productId": 220,
+    "productName": "Cinnamon Dolce Crème",
+    "productDescription": "We combine freshly steamed milk and cinnamon dolce flavored syrup, then top it off with sweetened whipped cream and cinnamon dolce topping. You're in for a treat.",
+    "productPrice": 10,
+    "productImagePath": "https://globalassets.starbucks.com/assets/75f0afa0cf954a9b819ae7d031275e39.jpg",
+    "productCategory": {
+      "categoryId": 7,
+      "categoryName": "Hot Chocolate",
+      "categoryDescription": "Hot Chocolate"
+    }
+  },
+  {
+    "productId": 219,
+    "productName": "Berry Hibiscus Refreshers Beverage",
+    "productDescription": "Real fruit juice and whole blackberries shaken with Green Coffee Extract for a boost of natural energy, served over ice.",
+    "productPrice": 8,
+    "productImagePath": "https://globalassets.starbucks.com/assets/77ddfb3496584fc1ba3a77701cf232a8.jpg",
+    "productCategory": {
+      "categoryId": 6,
+      "categoryName": "Fruit Juice",
+      "categoryDescription": "Fruit Juice"
+    }
+  },
+  {
+    "productId": 218,
+    "productName": "Chai Latte",
+    "productDescription": "Black tea infused with cinnamon, clove, and other warming spices is combined with steamed milk and topped with foam for the perfect balance of sweet and spicy.",
+    "productPrice": 5,
+    "productImagePath": "https://globalassets.starbucks.com/assets/f344c66e8de74a4faf5c65f4060cf1f7.jpg",
+    "productCategory": {
+      "categoryId": 4,
+      "categoryName": "Tea",
+      "categoryDescription": "Tea"
+    }
+  },
+  {
+    "productId": 217,
+    "productName": "Strawberry Frappuccino Blended Crème",
+    "productDescription": "Summer's favorite berry is the star of this delicious Frappuccino Blended Beverage. A blend of ice, milk and strawberry puree is layered on top of a splash of strawberry puree and finished with vanilla whipped cream.",
+    "productPrice": 12,
+    "productImagePath": "https://globalassets.starbucks.com/assets/2e98872a70e74083b0381df66e62d87d.jpg",
+    "productCategory": {
+      "categoryId": 3,
+      "categoryName": "Frappuccino",
+      "categoryDescription": "Frappuccino"
+    }
+  },
+  {
+    "productId": 216,
+    "productName": "Cold Brew with Cascara",
+    "productDescription": "Sweetened cold foam is flavored with our Cascara syrup atop our bold, smooth Cold Brew, and finished with just a hint of vanilla syrup.",
+    "productPrice": 7,
+    "productImagePath": "https://globalassets.starbucks.com/assets/3f73d26a93fc43329efa94d55596d169.jpg",
+    "productCategory": {
+      "categoryId": 2,
+      "categoryName": "Filter Coffee",
+      "categoryDescription": "Filter Coffee"
+    }
+  },
+  {
+    "productId": 215,
+    "productName": "Caffè Mocha",
+    "productDescription": "We combine our rich, full-bodied espresso with bittersweet mocha sauce and steamed milk, then top it off with sweetened whipped cream. ",
+    "productPrice": 4,
+    "productImagePath": "https://globalassets.starbucks.com/assets/7e2d6987b7404f13ab8eae0b2712dde9.jpg",
+    "productCategory": {
+      "categoryId": 1,
+      "categoryName": "Espresso",
+      "categoryDescription": "Espresso"
+    }
+  },
+  {
+    "productId": 214,
+    "productName": "Hot Chocolate",
+    "productDescription": "Steamed milk with vanilla- and mocha-flavored syrups. Topped with sweetened whipped cream and chocolate-flavored drizzle.",
+    "productPrice": 7,
+    "productImagePath": "https://globalassets.starbucks.com/assets/452d9229393844b9b57263a7d0d9cf1e.jpg",
+    "productCategory": {
+      "categoryId": 7,
+      "categoryName": "Hot Chocolate",
+      "categoryDescription": "Hot Chocolate"
+    }
+  },
+  {
+    "productId": 213,
+    "productName": "Mango Dragonfruit Lemonade",
+    "productDescription": "This tropical-inspired pick-me-up is crafted with a clever combination of vibrant lemonade, sweet mango and refreshing dragonfruit flavors, then handshaken with ice and a scoop of real diced dragon fruit.",
+    "productPrice": 11,
+    "productImagePath": "https://globalassets.starbucks.com/assets/c533e39cb7d94a9a9275c51b8e0294ba.jpg",
+    "productCategory": {
+      "categoryId": 6,
+      "categoryName": "Fruit Juice",
+      "categoryDescription": "Fruit Juice"
+    }
+  },
+  {
+    "productId": 212,
+    "productName": "Turkish Coffee",
+    "productDescription": "Derived from the Arabica bean and composed of a very fine grind, Turkish coffee has become famous all around the world. ",
+    "productPrice": 5,
+    "productImagePath": "https://img.theculturetrip.com/1024x/smart/wp-content/uploads/2016/09/7053045385_96bd088e72_k.jpg",
+    "productCategory": {
+      "categoryId": 5,
+      "categoryName": "Turkish Coffee",
+      "categoryDescription": "Turkish Coffee"
+    }
+  },
+  {
+    "productId": 211,
+    "productName": "Teavana Shaken Iced Black Tea",
+    "productDescription": "Premium black tea is lightly sweetened and shaken with ice. It's the ideal iced tea. ",
+    "productPrice": 4,
+    "productImagePath": "https://www.starbucks.com/assets/8f3164490bb34d4ab58ea170ce0f3331.jpg",
+    "productCategory": {
+      "categoryId": 4,
+      "categoryName": "Tea",
+      "categoryDescription": "Tea"
+    }
+  },
+  {
+    "productId": 210,
+    "productName": "Caffè Vanilla Frappuccino",
+    "productDescription": "We take Frappuccino roast coffee and vanilla bean powder, combine them with milk and ice, then top it with whipped cream. Tastes like happiness. ",
+    "productPrice": 7,
+    "productImagePath": "https://www.starbucks.com/assets/d35bfa73c0d847f98d7c9fe73c345210.jpg",
+    "productCategory": {
+      "categoryId": 3,
+      "categoryName": "Frappuccino",
+      "categoryDescription": "Frappuccino"
+    }
+  },
+  {
+    "productId": 209,
+    "productName": "Blonde Roast",
+    "productDescription": "Lightly roasted coffee that's soft, mellow and flavorful. Easy-drinking on its own and delicious with milk, sugar or flavored with vanilla, caramel or hazelnut. ",
+    "productPrice": 3,
+    "productImagePath": "https://globalassets.starbucks.com/assets/594ffeee3b1442ccbd7e926c51f45776.jpg",
+    "productCategory": {
+      "categoryId": 2,
+      "categoryName": "Filter Coffee",
+      "categoryDescription": "Filter Coffee"
+    }
+  },
+  {
+    "productId": 208,
+    "productName": "Caffè Americano",
+    "productDescription": "Espresso shots are topped with hot water to produce a light layer of crema. The result is this wonderfully rich cup with depth and nuance. ",
+    "productPrice": 4,
+    "productImagePath": "https://globalassets.starbucks.com/assets/2a4807223b53455b89f792b5e25ce89e.jpg",
+    "productCategory": {
+      "categoryId": 1,
+      "categoryName": "Espresso",
+      "categoryDescription": "Espresso"
+    }
+  }
+]

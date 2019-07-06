@@ -1,0 +1,37 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Espresso",
+    "categoryDescription": "Espresso"
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Filter Coffee",
+    "categoryDescription": "Filter Coffee"
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Frappuccino",
+    "categoryDescription": "Frappuccino"
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Tea",
+    "categoryDescription": "Tea"
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Turkish Coffee",
+    "categoryDescription": "Turkish Coffee"
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Fruit Juice",
+    "categoryDescription": "Fruit Juice"
+  },
+  {
+    "categoryId": 7,
+    "categoryName": "Hot Chocolate",
+    "categoryDescription": "Hot Chocolate"
+  }
+]
